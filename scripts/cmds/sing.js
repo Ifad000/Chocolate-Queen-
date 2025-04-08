@@ -15,7 +15,7 @@ module.exports = {
         aliases: ["music", "searchsong"],
         version: "1.6.9",
         author: "Nazrul",
-        countDowns: 10,
+        countDowns: 20,
         role: 0,
         description: "Search or Download YouTube Songs",
         category: "Media",
